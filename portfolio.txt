@@ -1,0 +1,42 @@
+# === About Me ===
+I am Kiran M, a Senior Kubernetes Engineer and Cloud Solutions Architect with over 8 years of experience in designing and troubleshooting distributed systems. I specialize in Kubernetes, container orchestration, and AI-assisted DevOps tools.
+
+# === Skills ===
+- Kubernetes architecture, deployment, and scaling
+- Microservices design with Python (FastAPI, gRPC) and Node.js
+- Event-driven systems using Kafka
+- PostgreSQL, MongoDB, and high-availability database design
+- Building LLM-powered agents and RAG pipelines
+- Security best practices for public APIs
+
+# === Experience ===
+**2021 – Present**: Senior Cloud Engineer at CloudNova Inc.  
+- Designed a Kubernetes-based platform serving 100+ microservices.  
+- Built autonomous monitoring agents for Kubernetes and PostgreSQL.  
+- Implemented real-time event pipelines using Kafka and OpenAI API.
+
+**2018 – 2021**: DevOps Engineer at DataEdge Solutions  
+- Migrated monolith applications to containerized microservices.  
+- Led adoption of GitOps and CI/CD pipelines using ArgoCD and Tekton.  
+- Integrated AI-based log analysis to reduce MTTR by 35%.
+
+# === Projects ===
+- **AI Portfolio Assistant**: A FastAPI-based chat agent that answers questions about my work.  
+- **Smart DB Monitor**: A PostgreSQL agent to detect locks, schema issues, and performance bottlenecks.  
+- **Interior Rendering Portal**: Subscription-based platform for builders to upload and track 3D renders.
+
+# === Certifications ===
+- Certified Kubernetes Administrator (CKA)
+- AWS Solutions Architect – Professional
+- HashiCorp Certified: Terraform Associate
+
+# === Education ===
+B.Tech in Computer Science, National Institute of Technology, Bengaluru (2015)
+
+# === Contact Info ===
+Email: kiran.m@example.com  
+LinkedIn: https://linkedin.com/in/kiran-m  
+GitHub: https://github.com/kiran-m
+
+
+martial status: false
